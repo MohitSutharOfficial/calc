@@ -26,5 +26,5 @@ A sleek and modern web calculator designed for everyday calculations and advance
 
 1️⃣ **Clone the repository**  
    ```sh
-   git clone https://github.com/MohitSutharOfficial/calc.git
+   git clone https://github.com/MohitSutharOfficial/smart-calc.git
 
